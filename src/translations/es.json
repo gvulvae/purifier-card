@@ -1,0 +1,38 @@
+{
+  "common": {
+    "name": "Purifier Card",
+    "description": "Purifier card te permite controlar tu purificador inteligente.",
+    "not_available": "Entidad no disponible",
+    "toggle_power": "Botón de encendido"
+  },
+  "state": {
+    "on": "Encendido",
+    "off": "Apagado"
+  },
+  "speed": {
+    "Auto": "Auto",
+    "Silent": "Silenciosa",
+    "Favorite": "Favorita",
+    "Fan": "Ventilador"
+  },
+  "error": {
+    "missing_entity": "¡Se requiere una entidad específica!",
+    "xiaomi_miio_level_without_speed": "¡Se requiere una velocidad junto con la propiedad xiaomi_miio_favorite_level!"
+  },
+  "editor": {
+    "entity": "Entidad (Requiredo)",
+    "compact_view": "Vista compacta",
+    "compact_view_aria_label_on": "Activar vista compacta",
+    "compact_view_aria_label_off": "Desactivar vista compacta",
+    "show_name": "Mostar nombre",
+    "show_name_aria_label_on": "Activar mostrar nombre",
+    "show_name_aria_label_off": "Desactivar mostrar nombre",
+    "show_state": "Mostrar estado",
+    "show_state_aria_label_on": "Activar mostrar estado",
+    "show_state_aria_label_off": "Desactivar mostrar estado",
+    "show_toolbar": "Mostrar barra de herramientas",
+    "show_toolbar_aria_label_on": "Activar mostrar barra de herramientas",
+    "show_toolbar_aria_label_off": "Desactivar mostrar barra de herramientas",
+    "code_only_note": "Nota: Las acciones de configuración y las opciones de estadísticas están disponibles exclusivamente mediante el Editor de código."
+  }
+}
